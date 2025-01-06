@@ -1,0 +1,17 @@
+Şehir: İstanbul  
+Sıcaklık: 22°C  
+Yağmur olasılığı: %60  
+Rüzgar: 15 km/s  
+Tavsiye: Yağmurlu bir gün olabilir, şemsiyenizi yanınıza alın.
+
+Şehir: Ankara  
+Sıcaklık: 18°C  
+Yağmur olasılığı: %30  
+Rüzgar: 10 km/s  
+Tavsiye: Hafif serin bir gün, bir ceket yeterli olacaktır.
+
+Şehir: İzmir  
+Sıcaklık: 26°C  
+Yağmur olasılığı: %10  
+Rüzgar: 5 km/s  
+Tavsiye: Güneşli bir gün, hafif giysiler tercih edilebilir.

@@ -1,0 +1,13 @@
+version: "3.8"
+
+services:
+  rag_app:
+    build:
+      context: ..
+      dockerfile: ./task5_docker_usage/Dockerfile
+    container_name: task2_rag_system
+    ports:
+      - "2121:2121"
+    volumes:
+      - ../task2_rag_system/documents:/task2_docker/documents
+    
